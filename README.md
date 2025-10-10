@@ -22,6 +22,15 @@
       <img src="https://skillicons.dev/icons?i=nextjs" width="80" /><br/>
       <strong>Next.js Developer</strong>
     </td>
+     <td align="center" width="200">
+      <img src="https://skillicons.dev/icons?i=go" width="80" /><br/>
+      <strong>Go Developer</strong>
+    </td>
+    <td align="center" width="200">
+      <img src="https://skillicons.dev/icons?i=flutter" width="80" /><br/>
+      <strong>Flutter Developer</strong>
+    </td>
+
   </tr>
 </table>
 
@@ -38,12 +47,6 @@
 </div>
 
 ---
-
-## 💬 Dev Quote
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
-</div>
 
 ---
 
