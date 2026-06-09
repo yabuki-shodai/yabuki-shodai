@@ -58,9 +58,23 @@
       <img src="https://skillicons.dev/icons?i=swift" width="80" /><br/>
       <strong>Swift</strong>
     </td>
-      <td align="center" width="200">
+    <td align="center" width="200">
         <img src="https://skillicons.dev/icons?i=python" width="80" /><br/>
       <strong>Python</strong>
+    </td>
+    <td align="center" width="200">
+        <img src="https://skillicons.dev/icons?i=figma" width="80" /><br/>
+        <strong>Figma</strong>
+    </td>
+    <td align="center" width="200">
+        <img src="https://skillicons.dev/icons?i=prisma" width="80" /><br/>
+        <strong>Prisma</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="200">
+      <img src="https://skillicons.dev/icons?i=react" width="80" /><br/>
+      <strong>React</strong>
     </td>
   </tr>
 </table>
