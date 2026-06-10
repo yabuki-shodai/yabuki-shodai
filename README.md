@@ -81,17 +81,6 @@
 
 </div>
 
----
-
-## 🏆 GitHub Stats
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yabuki829&theme=gruvbox&no-frame=true&row=1&column=7" />
-  <img src="https://github-readme-stats.vercel.app/api?username=yabuki829&show_icons=true&theme=gruvbox" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yabuki829&layout=compact&theme=gruvbox" />
-</div>
-
----
 
 ---
 
