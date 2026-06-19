@@ -1,3 +1,5 @@
+[![RPG](https://rpg-svg.vercel.app//rpg.svg?lines=初めまして、Yabukiと言います。&lines=大阪で働いています。)](https://rpg-i5vffei40-yabuki829s-projects.vercel.app/rpg?links=初めまして、Yabukiと言います。&links=大阪で働いています。)
+
 <!-- TYPING TEXT -->
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+yabuki+👋;Go+Developer+%F0%9F%9A%80;Always+Learning+New+Things" />
