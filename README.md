@@ -1,9 +1,9 @@
 [![RPG](https://rpg-svg.vercel.app/rpg.svg?lines=Yabukiがあらわれた！&lines=Yabukiはなかまになりたがっているようだ！&lines=なかまにくわえますか？&charDuration=0.08&lineGap=1.5)](https://rpg-svg.vercel.app/rpg?links=なかまにくわえますか?&links=Yabukiがなかまになった!!!)
 
 <!-- TYPING TEXT -->
-<div align="center">
+<!-- <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+yabuki+👋;Go+Developer+%F0%9F%9A%80;Always+Learning+New+Things" />
-</div>
+</div> -->
 
 
 ## 🧑‍💻 My Skils
