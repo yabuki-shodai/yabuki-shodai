@@ -1,4 +1,4 @@
-[![RPG](https://rpg-svg.vercel.app/rpg.svg?lines=Yabukiがあらわれた！&lines=Yabukiはなかまになりたがっているようだ！&lines=なかまにくわえますか？&charDuration=0.08&lineGap=1.5)](https://rpg-i5vffei40-yabuki829s-projects.vercel.app/rpg?links=なかまにくわえますか?&links=Yabukiがなかまになった!!!)
+[![RPG](https://rpg-svg.vercel.app/rpg.svg?lines=Yabukiがあらわれた！&lines=Yabukiはなかまになりたがっているようだ！&lines=なかまにくわえますか？&charDuration=0.08&lineGap=1.5)](https://rpg-svg.vercel.app/rpg?links=なかまにくわえますか?&links=Yabukiがなかまになった!!!)
 
 <!-- TYPING TEXT -->
 <div align="center">
