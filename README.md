@@ -1,3 +1,7 @@
+![LED Board](https://led-borad-svg.vercel.app/api/led-board?text=Hi%21+I%27m+Shodai+Yabuki+%21+I%27m+a+Software+Engineer+based+in+Osaka.&duration=16)
+
+
+
 [![RPG](https://rpg-svg.vercel.app/rpg.svg?lines=Yabukiがあらわれた！&lines=Yabukiはなかまになりたがっているようだ！&lines=なかまにくわえますか？&charDuration=0.08&lineGap=1.5)](https://rpg-svg.vercel.app/rpg?links=なかまにくわえますか?&links=Yabukiがなかまになった!!!)
 
 <!-- TYPING TEXT -->
@@ -71,5 +75,4 @@
     </td>
   </tr>
 </table>
-
 </div>
