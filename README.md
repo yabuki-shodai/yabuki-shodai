@@ -9,12 +9,6 @@
 [![RPG](https://rpg-svg.vercel.app/rpg.svg?lines=Yabukiがあらわれた！&lines=Yabukiはなかまになりたがっているようだ！&lines=なかまにくわえますか？&charDuration=0.08&lineGap=1.5)](https://rpg-svg.vercel.app/rpg?links=なかまにくわえますか?&links=Yabukiがなかまになった!!!)
 
 
-## ニュース
-[![LED Board](https://led-borad-svg.vercel.app/api/led-board?text=%E8%84%86%E5%BC%B1%E6%80%A7%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%E9%80%9F%E5%A0%B1&duration=11)](https://github.com/yabuki-shodai/cve-digest/blob/main/today.md)
-
-[![LED Board](https://led-borad-svg.vercel.app/api/led-board?text=%E8%A9%B1%E9%A1%8C%E3%81%AEIT%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%E9%80%9F%E5%A0%B1&duration=11)](https://github.com/yabuki-shodai/jouhousyusyuu/blob/main/today.md)
-
-
 
 <!-- TYPING TEXT -->
 <!-- <div align="center">
