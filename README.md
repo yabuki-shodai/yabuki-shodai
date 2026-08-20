@@ -1,3 +1,5 @@
+[![LED Board](https://led-borad-svg.vercel.app/api/led-board?text=%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%83%BC%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%E9%80%9F%E5%A0%B1&duration=11)](https://github.com/yabuki-shodai/security-digest/blob/main/security-news.md)
+
 <p align="center">
   <img
     src="https://github.com/user-attachments/assets/5af7a4ee-5293-4cb8-b1cd-125bb80575bf"
@@ -7,6 +9,10 @@
 </p>
 
 [![RPG](https://rpg-svg.vercel.app/rpg.svg?lines=Yabukiがあらわれた！&lines=Yabukiはなかまになりたがっているようだ！&lines=なかまにくわえますか？&charDuration=0.08&lineGap=1.5)](https://rpg-svg.vercel.app/rpg?links=なかまにくわえますか?&links=Yabukiがなかまになった!!!)
+
+
+
+
 
 
 
@@ -82,5 +88,7 @@
   </tr>
 </table>
 
+[脆弱性ニュース](https://github.com/yabuki-shodai/cve-digest/blob/main/today.md)
 
+[ITニュース](https://github.com/yabuki-shodai/jouhousyusyuu/blob/main/today.md)
 </div>
