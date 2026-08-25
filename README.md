@@ -90,5 +90,7 @@
 
 [脆弱性ニュース](https://github.com/yabuki-shodai/cve-digest/blob/main/today.md)
 
-[ITニュース](https://github.com/yabuki-shodai/jouhousyusyuu/blob/main/today.md)
+[セキュリティーニュース](https://github.com/yabuki-shodai/security-digest/blob/main/security-news.md)
+
+[世の中のニュース](https://github.com/yabuki-shodai/jouhousyusyuu/blob/main/today.md)
 </div>
